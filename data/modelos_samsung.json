@@ -1,0 +1,264 @@
+{
+  "samsung": [
+    {
+      "nombre": "Galaxy A02s", "variante": "SM-A025M", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qbasic_lfir_par0i2m5em_tuo9ol.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy A05s", "variante": "SM-A057F", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par0i5m7ef_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A05s", "variante": "SM-A057F ☆", "soporta": "BIT E", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-A057F-BIT-E.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A05s", "variante": "SM-A057G", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par0i5m7eg_tuo9ol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A05s", "variante": "SM-A057G ☆", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-A057G-BIT-B.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A05s", "variante": "SM-A057M", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par0i5m7em_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A05s", "variante": "SM-A057M ☆", "soporta": "BIT E", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par0i5m7em_tuoeol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A11", "variante": "SM-A115M", "soporta": "BIT 5", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qbasic_lfir_par1i1m5em_tuo5ol.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy A20s", "variante": "SM-A207F", "soporta": "BIT 5", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i0m7ef_tuo5ol.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy A20s", "variante": "SM-A207M", "soporta": "BIT 4", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i0m7em_tuo4ol.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy A23", "variante": "SM-A235F", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m5ef_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23", "variante": "SM-A235F ☆", "soporta": "BIT E", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-A235F-BIT-E.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23", "variante": "SM-A235M ☆", "soporta": "BIT F", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "sam-g-a235m-uf.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23", "variante": "SM-A235N", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m5en_tuo9ol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23 5G", "variante": "SM-A236B", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m6eb_tuobol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23 5G", "variante": "SM-A236E", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m6ee_tuobol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23 5G", "variante": "SM-A236M", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m6em_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23 5G", "variante": "SM-A236U", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m6eu_tuobol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A23 5G", "variante": "SM-A2360", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par2i3m5e0_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A52", "variante": "SM-A525F", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par5i2m5ef_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A52", "variante": "SM-A525M", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par5i2m5em_tuocol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy A72", "variante": "SM-A725M", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-brick-qfs_lfir_par7i2m5em_tuobol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy F14 4G", "variante": "SM-E145F", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-E145F-BIT-C.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy M23 5G", "variante": "SM-M236L", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-m-data-qfs_lfir_pmr2i3m6el_tuocol.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy S20 FE", "variante": "SM-G780G", "soporta": "BIT H", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr7i8m0eg_tuohol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S20 FE 5G", "variante": "SM-G781B", "soporta": "BIT H", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr7i8m1eb_tuohol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S20 FE 5G", "variante": "SM-G781N", "soporta": "BIT D", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr7i8m1en_tuodol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S20 FE 5G", "variante": "SM-G781U", "soporta": "BIT N", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr7i8m1eu_tuonol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S20 FE 5G", "variante": "SM-G781V", "soporta": "BIT L", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr7i8m1ev_tuolol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S20 FE 5G", "variante": "SM-G781W", "soporta": "BIT L", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr7i8m1ew_tuolol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S21 FE", "variante": "SM-G90900", "soporta": "BIT G", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr9i9m0e0_tuogol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S21 FE 5G", "variante": "SM-G990B", "soporta": "BIT K", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-G990B-BIT-K.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S21 FE 5G", "variante": "SM-G990B2", "soporta": "BIT I", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-G990B2-BIT-I.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S21 FE 5G", "variante": "SM-G990U", "soporta": "BIT N", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-G990U-BIT-N.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S21 Ultra 5G", "variante": "SM-G9960", "soporta": "BIT E", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr9i9m6e0_tuoeol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S21 Ultra 5G", "variante": "SM-G998O", "soporta": "BIT E", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-g-data-qfs_lfir_pgr9i9m8eo_tuoeol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S22", "variante": "SM-S901U", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S901U-BIT-9.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S22+", "variante": "SM-S906U", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S906U-BIT-9.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S23+", "variante": "SM-S916U", "soporta": "BIT 7", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S916U-BIT-7.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S23 Ultra", "variante": "SM-S918B", "soporta": "BIT A", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S918B-BIT-A.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S24", "variante": "SM-S921U", "soporta": "BIT 6", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S921U-BIT-6.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S24 Ultra", "variante": "SM-S928B", "soporta": "BIT 6", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S928B-BIT-6.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy S24 Ultra", "variante": "SM-S928N", "soporta": "BIT 6", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-S928N-BIT-6.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Tab Active 4 Pro", "variante": "SM-T630", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-T630-BIT-B.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Tab A9 Wifi", "variante": "SM-X210R", "soporta": "BIT 4", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-x-data-qfs_lfir_pxr2i1m0er_tuo4ol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Tab A9+ 5G", "variante": "SM-X216B", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-x-data-qfs_lfir_pxr2i1m6eb_tuo9ol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Tab A9+ 5G", "variante": "SM-X216B ☆", "soporta": "BIT C", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-X216B-BIT-C.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Tab A9+ 5G", "variante": "SM-X218U", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-x-data-qfs_lfir_pxr2i1m8eu_tuo9ol.prime", "metodo": "emmc"
+    },
+    {
+      "nombre": "Galaxy Tab S8 Ultra", "variante": "SM-X900", "soporta": "BIT 9", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "system-x-data-qfs_lfir_pxr9i0m0e_tuo9ol.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Flip 3 5G", "variante": "SM-F711B", "soporta": "BIT F", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "zf-F711B-BIT-F.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Flip 3 5G", "variante": "SM-F711N", "soporta": "BIT B", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "zf-F711N-BIT-B.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Flip 3 5G", "variante": "SM-F711U", "soporta": "BIT E", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "zf-F711U-BIT-E.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 3 5G", "variante": "SM-F926B", "soporta": "BIT D", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "zfld-F926B-BIT-D.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 3 5G", "variante": "SM-F926B", "soporta": "BIT H ☆", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-F926B-BIT-H.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 3 5G", "variante": "SM-F926N", "soporta": "BIT A", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "zfld-F926N-BIT-A.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 3 5G", "variante": "SM-F926U", "soporta": "BIT D", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "zfld-F926U-BIT-D.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 4 5G", "variante": "SM-F936U", "soporta": "BIT A", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-F936U-BIT-A.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 5 5G", "variante": "SM-F731B", "soporta": "BIT 7", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-F731B-BIT-7.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 5 5G", "variante": "SM-F946B", "soporta": "BIT 7", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-F946B-BIT-7.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Galaxy Z Fold 5 5G", "variante": "SM-F946U", "soporta": "BIT 7", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "SM-F946U-BIT-7.prime", "metodo": "ufs"
+    }
+  ],
+  "Xiaomi": [
+    {
+      "nombre": "Xiaomi 12 Pro", "variante": "Zeus", "soporta": "Xiaomi", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "xi_12_pro_zeus.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Xiaomi 14 Pro", "variante": "Shennong", "soporta": "Xiaomi", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "xi_14_pro_shennong.prime", "metodo": "ufs"
+    },
+    {
+      "nombre": "Xiaomi Mix Fold 4", "variante": "Goku", "soporta": "Xiaomi", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "xi_mix_fold_4.prime", "metodo": "ufs"
+    }
+  ],
+  "Honor": [
+    {
+      "nombre": "Honor Pad X7", "variante": "JMS-W09", "soporta": "Honor", "chipset": "Qualcomm",
+      "conexion": "EDL Mode", "loader": "hn_pad_x7_jms-w09.prime", "metodo": "emmc"
+    }
+  ]
+}

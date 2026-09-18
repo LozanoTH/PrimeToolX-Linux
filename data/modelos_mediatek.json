@@ -1,0 +1,220 @@
+{
+  "Samsung": [
+    {
+      "nombre": "Galaxy A03s",
+      "variante": "SM-A037F",
+      "soporta": "Binario 8",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A03s",
+      "variante": "SM-A037M",
+      "soporta": "Binario B",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A04",
+      "variante": "SM-A045F",
+      "soporta": "Binario E",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A04",
+      "variante": "SM-A045M",
+      "soporta": "Binario F",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A04e",
+      "variante": "SM-A042F",
+      "soporta": "Binario F",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A04e",
+      "variante": "SM-A042M",
+      "soporta": "Binario G",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A05",
+      "variante": "SM-A055F",
+      "soporta": "Binario F",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A05",
+      "variante": "SM-A055M",
+      "soporta": "Binario G",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A06",
+      "variante": "SM-A065F",
+      "soporta": "Binario B",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A06",
+      "variante": "SM-A065M",
+      "soporta": "Binario B",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for\n   4 seconds"
+    },
+    {
+      "nombre": "Galaxy A32",
+      "variante": "SM-A325F",
+      "soporta": "Binario C",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect via test point"
+    },
+    {
+      "nombre": "Galaxy A32",
+      "variante": "SM-A325M",
+      "soporta": "Binario D",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e persistent",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect via test point"
+    }
+  ],
+  "Xiaomi": [
+    {
+      "nombre": "Redmi A3",
+      "variante": "gale",
+      "soporta": "Android 15",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "xy-redmi_a3.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    },
+    {
+      "nombre": "Redmi 13C",
+      "variante": "gale",
+      "soporta": "Android 15",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "xy-redmi_13c.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    },
+    {
+      "nombre": "Redmi 14C",
+      "variante": "lake",
+      "soporta": "Android 14",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "xy-redmi_14c.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    }
+  ],
+  "Honor": [
+    {
+      "nombre": "Honor Play 10",
+      "variante": "ELA-LX[1-2-3]",
+      "soporta": "Android 14",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "hn_ply10_ELA-LX.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    },
+    {
+      "nombre": "Honor X8a",
+      "variante": "CRT-LX[1-2-3]",
+      "soporta": "Android 14",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "off",
+      "instruccion": "1 Select function\n 2 Connect via test point"
+    }
+  ],
+  "Motorola": [
+    {
+      "nombre": "Moto G05",
+      "variante": "XT2523",
+      "soporta": "And 15 | April 2026",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "mt_g05.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    },
+    {
+      "nombre": "Moto G06",
+      "variante": "XT2535",
+      "soporta": "And 15 | April 2026",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "mt_g06.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    },
+    {
+      "nombre": "Moto G15",
+      "variante": "XT2521",
+      "soporta": "And 15 | April 2026",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "mt_g15.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    },
+    {
+      "nombre": "Moto G17",
+      "variante": "XT2623",
+      "soporta": "And 15 | April 2026",
+      "chipset": "Mediatek",
+      "conexion": "BROM Mode",
+      "comando_base": "e frp",
+      "loader": "mt_g17.bin",
+      "instruccion": "1 Select function\n 2 Connect your device while it is turned off\n 3 As soon as you see the logo, press the power button for 4 seconds"
+    }
+  ]
+}

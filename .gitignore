@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Datos extraídos / temporales en tiempo de ejecución
+cache/
+data/*.cache.json
+
+# Scripts de ejecución locales
+run.sh
+*.log
+
+# Configuración local
+*.conf
+primetoolx-linux.desktop
+# Archivos del sistema operativo
+.DS_Store
