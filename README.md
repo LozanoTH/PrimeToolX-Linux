@@ -106,3 +106,6 @@ PrimeToolX-Linux/
 ## Licencia
 
 GPLv3. Ver `LICENSE`.
+## Aviso legal
+
+> La aplicación original **PrimeToolX** (GSM Prime) **NO** está cubierta por esta licencia. Este proyecto es un fork de ingeniería inversa que utiliza los motores de código abierto **mtkclient** y **edl** (ambos GPLv3, autor B. Kerler). Si distribuyes este software, distribúyelo bajo los términos de la GPLv3 e incluye los créditos correspondientes. No se incluyen binarios propietarios (`.exe`, `.prime`, `.elf`) en el repositorio.
