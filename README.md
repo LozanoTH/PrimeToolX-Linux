@@ -1,3 +1,6 @@
+[![Licencia](https://img.shields.io/github/license/LozanoTH/PrimeToolX-Linux)](LICENSE)
+[![Lenguaje](https://img.shields.io/github/languages/top/LozanoTH/PrimeToolX-Linux)](https://github.com/LozanoTH/PrimeToolX-Linux)
+
 # PrimeToolX Linux — fork nativo
 
 Versión nativa para **Linux** (sin Wine) de PrimeToolX 26.7.2: herramienta de
